@@ -22,7 +22,7 @@
        │       │       │       │       │       │       │       
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Electronics+and+Computer+Engineer;AI+%2F+ML+%7C+Embedded+%7C+Software+%7C+Robotics;Gritty.)](https://github.com/EasyDeduce)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Electronics+and+Computer+Engineer;AI+%2F+ML+%7C+Embedded+%7C+Software+%7C+Robotics;Grit.)](https://github.com/EasyDeduce)
 
 **I build machines. From the chip to the model.**
 
