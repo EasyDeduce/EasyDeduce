@@ -64,11 +64,12 @@
 
 | Field | Toolkit |
 |---|---|
-| 🧠 **AI / ML** | **Models:** PyTorch · scikit-learn · XGBoost · Transformers · LSTM / GRU · GANs · RLHF<br>**Applied:** NLP · RAG · Agentic AI (LangChain, LangGraph) · TinyML<br>**Data:** NumPy · Pandas · PowerBI |
+| 📖**Computer Science Fundamentals** | **Data Structures and Algorithms**<br>**Compiler Design**<br>**Theory of Computation**<br>**Computer Networks**<br>**Operating Systems**<br>**Database Management**
+| 🧠 **AI / ML** | **Deep Learning:** Neural Networks · Transformers · Transformers · LSTM / GRU · GANs · RLHF<br>**Models and Training:** PyTorch · scikit-learn · Hyperparameter Tuning · Normalization and regularization · CatBoost · XGBoost<br>**Applied:** NLP · RAG · Agentic AI (LangChain, LangGraph) · TinyML<br>**Data:** NumPy · Pandas · PowerBI |
 | 🔌 **Embedded Systems** | **Platforms:** STM32 · Jetson Nano / Orin · Raspberry Pi 4 / 5<br>**Firmware:** Embedded C · RTOS · Assembly (8051 / ARM)<br>**Hardware design:** KiCAD · Analog & digital circuits · Fusion 360 |
-| 💻 **Software Development** | **Languages:** Python · C / C++ · Java · JavaScript<br>**Backend & Web:** FastAPI · REST · React / Next.js<br>**Data & Infra:** MongoDB · MySQL · Docker · AWS · Linux · CI/CD<br>**Quality:** PyTest · integration & smoke testing |
+| 💻 **Software Development** | **Languages:** Python · C / C++ · Java · JavaScript<br>**Backend & Web:** FastAPI · REST · React / Next.js<br>**Data & Infra:** MongoDB · SQLite · Docker · AWS · Linux · CI/CD<br>**Quality:** PyTest · integration & smoke testing |
 | 🔬 **Silicon & Chip Design** | **RISC-V:** ISA · bare-metal C · QEMU · Spike<br>**FPGA:** Verilog · Intel Quartus · pipelining · static timing analysis · Optimization Techniques<br>**VLSI:** SPICE · Cadence · OpenRoad · SkyWater 130nm |
-| 🤖 **Robotics** | **Framework:** ROS 2 Jazzy (C++) · URDF / xacro · SLAM<br>**Control:** PID · MPC · kinematics & dynamics · behavior trees<br>**Simulation:** NVIDIA Isaac Sim / Lab
+| 🤖 **Robotics** | **Framework:** ROS 2 Jazzy (C++) · URDF / xacro · SLAM<br>**Control:** PID · MPC<br>**Simulation:** NVIDIA Isaac Sim / Lab
 | 🤝 **Beyond Code** | Efficient communication · Teamwork · Critical & analytical thinking · Decision making |
 
 ---
